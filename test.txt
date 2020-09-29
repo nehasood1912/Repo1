@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 7EFF-0E6D
+
+ Directory of C:\Users\nehasood\Desktop\MyProject
+
+09/29/2020  09:08 PM    <DIR>          .
+09/29/2020  09:08 PM    <DIR>          ..
+09/29/2020  09:08 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  20,373,970,944 bytes free
